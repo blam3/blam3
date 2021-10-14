@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blam3
-- 👀 I’m interested in statistics with R
+- 👀 I’m interested in statistics with R and Julia
 - 🌱 I’m currently learning structural equation modelling, data visualization, and various statistical analyses
 - 💞️ I’m looking to collaborate on R package development and R Shiny Apps
 - 📫 How to reach me: Twitter: @brendannathanl1  Email: brendannathanlam@hotmail.com
