@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blam3
+- 👋 Hi, I’m Brendan (@blam3)
 - 👀 I’m interested in statistics with R and Julia
 - 🌱 I’m currently learning structural equation modelling, data visualization, and machine learning
 - 💞️ I’m looking to collaborate on R package development and R Shiny Apps
