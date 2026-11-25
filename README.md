@@ -22,12 +22,11 @@ which census tracts qualify under threshold-based allocation rules.
 Monte Carlo simulation · decision reliability
 
 ### [EqualVoice](https://github.com/blam3/equalvoice)
-Whose concerns survive when AI summarizes feedback?
+Whose concerns are included when AI summarizes feedback?
 
 An evaluation prototype that audits whether AI-generated summaries
-preserve, dilute, or omit specific source claims, including consequential
-concerns that can disappear into broader themes. Includes an offline
-demo; independent human validation is a next step.
+preserve, dilute, or omit specific information, including consequential
+concerns that can disappear into broader themes. This project was submitted as a hackathon entry hosted by OpenAI. It includes an offline demo. Independent human validation is the next step.
 
 **Methods:** LLM evaluation · measurement design · TypeScript · React ·
 automated testing
