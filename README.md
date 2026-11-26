@@ -18,7 +18,7 @@ An analysis of how sampling uncertainty in American Community Survey
 data propagates through the Social Vulnerability Index and affects
 which census tracts qualify under threshold-based allocation rules.
 
-**Methods:** R; public-data pipelines; uncertainty propagation;
+**Methods:** R; public-data pipelines; formative measurement; uncertainty propagation;
 Monte Carlo simulation; decision reliability
 
 ### [EqualVoice](https://github.com/blam3/equalvoice)
@@ -38,7 +38,7 @@ to influence behavior?
 An agent-based simulation exploring these mechanisms, with parameter
 sweeps, reproducibility checks, and workflows for running analyses on a high-performance computing cluster.
 
-**Methods:** Python; agent-based modeling; behavioral decision theory;
+**Methods:** Python; agent-based modeling; wealth inequality; behavioral decision theory;
 sensitivity analysis; Slurm
 
 ## Research and technical interests
@@ -55,5 +55,5 @@ AI and Human Systems, responsible AI and safety evaluation, and
 policy analysis—especially roles connecting rigorous methods with
 human behavior and social outcomes.
 
-[LinkedIn](https://www.linkedin.com/in/brendan-lam-4841a3127/) ·
-[Email](mailto:brendannathanlam@hotmail.com)
+- [LinkedIn](https://www.linkedin.com/in/brendan-lam-4841a3127/)
+- [Email](mailto:brendannathanlam@hotmail.com)
