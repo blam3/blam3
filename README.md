@@ -3,7 +3,7 @@
 I'm a PhD student in Clinical Psychology at Yale University and a
 statistics consultant. I use Python and R to study human behavior,
 evaluate statistical models, and examine how uncertainty affects
-decisions about people.
+people's decisions.
 
 My work connects **measurement, causal inference, and behavioral
 modeling**, with growing applications to human-centered AI,
@@ -18,8 +18,8 @@ An analysis of how sampling uncertainty in American Community Survey
 data propagates through the Social Vulnerability Index and affects
 which census tracts qualify under threshold-based allocation rules.
 
-**Methods:** R · public-data pipelines · uncertainty propagation ·
-Monte Carlo simulation · decision reliability
+**Methods:** R; public-data pipelines; uncertainty propagation;
+Monte Carlo simulation; decision reliability
 
 ### [EqualVoice](https://github.com/blam3/equalvoice)
 Whose concerns are included when AI summarizes feedback?
@@ -28,7 +28,7 @@ An evaluation prototype that audits whether AI-generated summaries
 preserve, dilute, or omit specific information, including consequential
 concerns that can disappear into broader themes. This project was submitted as a hackathon entry hosted by OpenAI. It includes an offline demo. Independent human validation is the next step.
 
-**Methods:** LLM evaluation · measurement design · TypeScript · React ·
+**Methods:** LLM evaluation; measurement design; TypeScript; React;
 automated testing
 
 ### [Modeling Inequality and Property Crime](https://github.com/blam3/ABM-relative-desperation-uncertainty)
@@ -36,10 +36,10 @@ How might relative deprivation and judgments of uncertainty interact
 to influence behavior?
 
 An agent-based simulation exploring these mechanisms, with parameter
-sweeps, reproducibility checks, and workflows for cluster computing.
+sweeps, reproducibility checks, and workflows for running analyses on a high-performance computing cluster.
 
-**Methods:** Python · agent-based modeling · behavioral decision theory ·
-sensitivity analysis · Slurm
+**Methods:** Python; agent-based modeling; behavioral decision theory;
+sensitivity analysis; Slurm
 
 ## Research and technical interests
 
